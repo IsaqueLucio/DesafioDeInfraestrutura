@@ -1,0 +1,19 @@
+Nome: Computador01
+Sistema Operacional: Windows
+Versão do Software: 3.5.1
+Status: Ativo
+
+Nome: Computador02
+Sistema Operacional: Linux
+Versão do Software: 3.5.1
+Status: Inativo
+
+Nome: Computador03
+Sistema Operacional: Windows
+Versão do Software: 3.4.2
+Status: Ativo
+
+Nome: Computador04
+Sistema Operacional: Linux
+Versão do Software: 2.5.1
+Status: Inativo
