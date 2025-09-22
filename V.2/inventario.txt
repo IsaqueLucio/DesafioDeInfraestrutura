@@ -1,0 +1,7 @@
+Nome,Sistema,Versao,Status
+Computador01,Windows,3.5.1,Ativo
+Computado02,Linux,2.5.7,Inativo
+Computador03,Linux,3.5.1,Ativo
+Computador04,Windows,1.2.3,Inativo
+Computador05,Windows,1.2.3,Inativo
+Computador06,Windows,1.2.3,Inativo
